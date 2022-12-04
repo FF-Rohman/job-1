@@ -1,8 +1,12 @@
 print()
-_1st_num= int(input('Enter Your First Number: '))
-_2nd_num = int(input('Enter Your First Number: '))
 
-print('Addition of those numbe is : ',(_1st_num + _2nd_num))
-print('Subtraction those numbe is : ',(_1st_num - _2nd_num))
-print('Multiplication of those numbe is : ',(_1st_num * _2nd_num))
-print('Multiplication of those numbe is : ',(_1st_num / _2nd_num))
+a = 20
+b = 10
+
+
+
+
+print("Sum of your number is : ", a+b)
+print("Subtraction of your number is : ", a-b)
+print("Multiplication of your number is : ", a*b)
+print("Division of your number is : ", a/b)
